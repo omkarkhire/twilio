@@ -65,7 +65,7 @@
        }
     },
     "wizardSteps": [
-       { "label": "Create SMS Message", "key": "step1" }
+       { "label": "Create SMS Message", "29b080b9-4013-4ed6-bd1f-0819ee57273b": "step1" }
     ],
     "userInterfaces": {
        "configModal": {
