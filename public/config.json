@@ -1,5 +1,5 @@
 {
-    "key": "29b080b9-4013-4ed6-bd1f-0819ee57273b",
+    "key": "4f68dc49-6036-437e-b9dd-7224bf210606",
     "workflowApiVersion": "1.1",
     "metaData": {
        "icon": "images/iconSmall.png",
@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "29b080b9-4013-4ed6-bd1f-0819ee57273b",
+      "applicationExtensionKey": "4f68dc49-6036-437e-b9dd-7224bf210606",
        "save": {
            "url": "https://twilio-omkar.herokuapp.com/save",
             "verb": "POST",
