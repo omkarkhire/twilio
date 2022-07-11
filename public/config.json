@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "4f68dc49-6036-437e-b9dd-7224bf210606",
+      "applicationExtensionKey": "fd5b7dc2-72dc-46a9-b605-7d456e6596f",
        "save": {
            "url": "https://twilio-omkar.herokuapp.com/save",
             "verb": "POST",
