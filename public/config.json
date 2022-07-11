@@ -17,7 +17,7 @@
         "execute": {
             "inArguments": [
                 {
-                  "email": "{{Contact.Default.EmailAddress}}",
+                  "email": "okhire@its.jnj.com",
                   "to": "{{Contact.Attribute.TwilioSMSTest.Phone}}" 
                 }               
             ],
